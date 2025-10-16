@@ -2,18 +2,18 @@
 
 **Features**
 
-*Multi-Modal Translation - Translate text, audio, video, and camera/document captures in real-time
-*Text Translation - Type or paste text and instantly translate to any language with natural voice output
-*Audio Translation - Speak naturally and get live transcription and translation with voice responses
-*Video Translation - Upload videos and generate multilingual captions with translated audio tracks
-*Camera/Document Translation - Point your camera at real-world text for instant OCR and translation
-*Translation History - All translations saved with timestamps and searchable history
-*Tour Guide - Discover nearby places, view routes, and get AI-powered travel recommendations
-*AI-Powered Chat - Ask anything and get intelligent responses with agentic AI capabilities
-*LLM Integration - Powered by advanced language models for accurate, context-aware translations
-*MCP Server - Model Context Protocol server for extensible AI tool integration
-*W3 Storage - Decentralized storage for media files and translation data
-*Stripe Payments - Secure checkout for premium features and subscriptions
+* Multi-Modal Translation - Translate text, audio, video, and camera/document captures in real-time
+* Text Translation - Type or paste text and instantly translate to any language with natural voice output
+* Audio Translation - Speak naturally and get live transcription and translation with voice responses
+* Video Translation - Upload videos and generate multilingual captions with translated audio tracks
+* Camera/Document Translation - Point your camera at real-world text for instant OCR and translation
+* Translation History - All translations saved with timestamps and searchable history
+* Tour Guide - Discover nearby places, view routes, and get AI-powered travel recommendations
+* AI-Powered Chat - Ask anything and get intelligent responses with agentic AI capabilities
+* LLM Integration - Powered by advanced language models for accurate, context-aware translations
+* MCP Server - Model Context Protocol server for extensible AI tool integration
+* W3 Storage - Decentralized storage for media files and translation data
+* Stripe Payments - Secure checkout for premium features and subscriptions
 
 ** 
 Environment Setup
