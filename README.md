@@ -1,5 +1,6 @@
-bolt-translate2
+**Grok Agentic AI Translator and Travel Assistant**
 
+** 
 Environment Setup
 - Copy `.env.example` to `.env` and fill values:
   - `VITE_SUPABASE_URL` – your Supabase project URL
