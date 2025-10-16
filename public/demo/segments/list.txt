@@ -1,0 +1,7 @@
+file '/Users/craigellenwood/bolt-translate2/public/demo/segments/01-text.mp4'
+file '/Users/craigellenwood/bolt-translate2/public/demo/segments/02-audio.mp4'
+file '/Users/craigellenwood/bolt-translate2/public/demo/segments/03-video.mp4'
+file '/Users/craigellenwood/bolt-translate2/public/demo/segments/04-camera.mp4'
+file '/Users/craigellenwood/bolt-translate2/public/demo/segments/05-history.mp4'
+file '/Users/craigellenwood/bolt-translate2/public/demo/segments/06-tour guide.mp4'
+file '/Users/craigellenwood/bolt-translate2/public/demo/segments/07-chatgpt.mp4'

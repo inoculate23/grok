@@ -1,0 +1,11 @@
+[build]
+  command = "npm ci && npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
+  # Allow public client-side envs to appear in the bundle without failing secret scan
+  SECRETS_SCAN_OMIT_KEYS = "SUPABASE_URL,VITE_SUPABASE_URL,VITE_SUPABASE_ANON_KEY"
+
+[context.production]
+  command = "npm ci && npm run build"
